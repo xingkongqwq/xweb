@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4624020-b6cf-4892-abcb-880570c456e8" name="变更" comment="" />
+    <list default="true" id="e4624020-b6cf-4892-abcb-880570c456e8" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/XWebLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/XWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/exceptions/IllegalMainClassException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/server/HttpChannelInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/server/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/server/HttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xweb-gradle-plugin/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xweb-gradle-plugin/src/main/java/io/github/xingkongqwq/XWebPlugin.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +38,102 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="xweb" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="xweb" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="xweb" type="f1a62948:ProjectNode" />
+                <item name="运行配置" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/Launcher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/XWebApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/io/github/xingkongqwq/xweb/core/server/HttpServer.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2A12JcOh8YhOSEoV6jW75qEUENE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.statistic.project.settings"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean build -Dfile.encoding=UTF-8" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="XWebLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.xingkongqwq.xweb.XWebLauncher" />
+      <module name="xweb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.xingkongqwq.xweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.XWebLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -34,8 +142,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654162706509</updated>
-      <workItem from="1654162717453" duration="3000" />
+      <workItem from="1654162717453" duration="233000" />
+      <workItem from="1654163001305" duration="8278000" />
+      <workItem from="1654217653125" duration="1782000" />
+      <workItem from="1654219487723" duration="1806000" />
+      <workItem from="1654229612925" duration="2840000" />
+      <workItem from="1654326321092" duration="1213000" />
+      <workItem from="1654398705310" duration="981000" />
+      <workItem from="1654420141378" duration="3427000" />
+      <workItem from="1654426595877" duration="1705000" />
+      <workItem from="1654856334250" duration="3232000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

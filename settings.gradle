@@ -1,2 +1,5 @@
 rootProject.name = 'xweb'
+include 'xweb-gradle-plugin'
+include 'xweb-gradle-plugin'
+include 'xweb-gradle-plugin'
 

@@ -1,4 +1,4 @@
-package io.github.xingkongqwq.xweb.core;
+package io.github.xingkongqwq.xweb.core.server;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
